@@ -1,0 +1,4 @@
+hal/demo-native
+hal/demo-riscv
+hal/out-*.txt
+*.o
